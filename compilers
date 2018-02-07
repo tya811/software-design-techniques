@@ -1,0 +1,12 @@
+the compilers themselves need to compress data using
+loops, if statements, bit shifts, interrupts, characters, and, exclusive or, etcetera
+so some of your header files can define registers by letters to store the name in less bits
+counters. in a flight sim, or chemistry sim, 90% of the data is there already if you use a counter and a well thought out loop
+interrupts can be used to optimize the shit out of software run time.
+even in producing star filled skys on the computer as the background of the computer at night, loops can make that software run on minimal
+hardware and ram
+
+the compiler itself can be used to write device drivers and bug fix by searching the internet in the background, searching the code on the
+computer and testing it in the background, and searching documentation online. 
+
+although I kind of think it should mostly be an assembler that changes its code to optimize execution on a chip by chip basis.
